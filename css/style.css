@@ -429,3 +429,18 @@ icon-bar ul {
         margin-top: 20px;
     }
 }
+
+/* about styling */
+
+.learning-objectives {
+    margin: 20px;
+  }
+  
+  .learning-objectives li {
+    font-family: var(--font-serif-titles);
+  }
+  
+  .xkcd-container img {
+    width: 320px;
+    height: auto;
+  }
